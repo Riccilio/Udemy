@@ -7,8 +7,8 @@ erros de índices inexistentes na lista.
 """
 import os
 
-
 lista_de_compras = []
+
 while True:
     user_input = input('Selecione uma opção\n'
                    '[i]nserir [a]pagar [l]istar:')
@@ -21,7 +21,7 @@ while True:
     elif user_input.lower() == 'a':
         indice_str = input('Escolha o indice para apagar: ') #essa é a forma como o professor fez
                                                              #achei interessante pela forma como
-                                                             # tratou os erros
+                                                             #tratou os erros
         try:
             indice = int(indice_str)
             del lista_de_compras[indice]
