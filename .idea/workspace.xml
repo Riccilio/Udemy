@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93d9ae11-a4bf-49ed-b01e-df8087640358" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/aula 61_ Exercício - Gerar o primeiro dígito de CPF (solução do professor).py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula63_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula64_criando um gerador de CPF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.aula 61_ Exercício - Gerar o primeiro dígito de CPF (solução do professor).executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula44_ range mais for para usar intervalos de numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula50_ exercício - exiba os indices da lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula61_ Exercício - Gerar o primeiro dígito de CPF.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula62_ Exercício - Gerar o segundo dígito do CPF.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.aula 61_ Exercício - Gerar o primeiro dígito de CPF (solução do professor).executor": "Run",
+    "Python.aula44_ range mais for para usar intervalos de numeros.executor": "Run",
+    "Python.aula50_ exercício - exiba os indices da lista.executor": "Run",
+    "Python.aula61_ Exercício - Gerar o primeiro dígito de CPF.executor": "Run",
+    "Python.aula62_ Exercício - Gerar o segundo dígito do CPF.executor": "Run",
+    "Python.aula64_criando um gerador de CPF.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
